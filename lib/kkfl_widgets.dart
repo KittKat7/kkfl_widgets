@@ -12,4 +12,7 @@
 /// See the License for the specific language governing permissions and
 /// limitations under the License.
 
-export './src/widgets/marked.dart';
+export './src/aspect.dart';
+export './src/marked.dart';
+export './src/popups.dart';
+export './src/simple_text.dart';
