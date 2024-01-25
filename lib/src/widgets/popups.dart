@@ -1,5 +1,5 @@
 /// Copyright 2024 kittkat; Licensed under the Apache License v2.0.
-/// This file is part of kkff_widgets (https://github.com/KittKat7/kkff_widgets).
+/// This file is part of kkfl_widgets (https://github.com/KittKat7/kkfl_widgets).
 /// For license info go to http://www.apache.org/licenses/LICENSE-2.0
 
 import 'package:flutter/material.dart';
